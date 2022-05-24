@@ -23,37 +23,66 @@
             android:layout_width="match_parent"
             android:layout_height="187dp"
             android:contentDescription="Picture"
-            android:src="@drawable/pfp" />
-
-        <TextView
-            android:id="@+id/textView15"
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:textAlignment="center" />
+            android:src="@drawable/hanif" />
 
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="45dp"
-            android:text="Name = MUHAMMAD FARIS AMMAR BIN ZULKIFLE"
+            android:layout_height="wrap_content"
+            android:text="Name = HANIF IKMAL BIN AHMAD AKIBI"
             android:textAlignment="viewStart"
             android:textColor="#FFFFFF" />
 
         <TextView
             android:id="@+id/textView9"
             android:layout_width="match_parent"
-            android:layout_height="45dp"
-            android:text="Matric no = 2020847256"
+            android:layout_height="wrap_content"
+            android:text="Matric no = 2021110537"
             android:textAlignment="viewStart"
             android:textColor="#FFFFFF" />
 
         <TextView
             android:id="@+id/textView10"
             android:layout_width="match_parent"
-            android:layout_height="45dp"
-            android:text="Programme Code = CS2703B"
+            android:layout_height="wrap_content"
+            android:text="Programme Code = CS240"
             android:textAlignment="viewStart"
             android:textColor="#FFFFFF" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="187dp"
+            android:contentDescription="Picture"
+            android:src="@drawable/amy"
+            tools:ignore="DuplicateIds" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:text="Name = AMIRAH BINTI MOHD YUSOF"
+            android:textAlignment="viewStart"
+            android:textColor="#FFFFFF"
+            tools:ignore="DuplicateIds" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Matric no = 2021112089"
+            android:textAlignment="viewStart"
+            android:textColor="#FFFFFF"
+            tools:ignore="DuplicateIds" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"
+            android:text="Programme Code = CS240"
+            android:textAlignment="viewStart"
+            android:textColor="#FFFFFF"
+            tools:ignore="DuplicateIds" />
 
         <Button
             android:id="@+id/button"

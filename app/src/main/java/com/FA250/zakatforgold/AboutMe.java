@@ -21,7 +21,7 @@ public class AboutMe extends AppCompatActivity {
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Uri uri = Uri.parse("https://github.com/FA2500");
+                Uri uri = Uri.parse("https://github.com/2021110537/ZakatForGold");
                 Intent launch = new Intent(Intent.ACTION_VIEW,uri);
                 startActivity(launch);
             }
