@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ZakatForGold</string>
+    <string name="current_gold_value_gram">Current gold value/gram</string>
+    <string name="type_of_gold">Type of gold</string>
+    <string name="gold_weight_gram">Gold Weight(gram)</string>
+    <string name="about_me">About me</string>
 </resources>
